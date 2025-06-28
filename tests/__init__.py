@@ -1,1 +1,0 @@
-"""Tests for Windows Font Changer.""" 
